@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!--Vistajet Test Suite-->
+<suite name="Regression Suite">
+
+    <test name = "Login Suite">
+        <classes>
+            <class name="Testcases.loginTests">
+                <methods>
+                    <include name="login_VJDirectUser_VerifyUserCanLoginIntoApp"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
