@@ -1,4 +1,4 @@
-# DNow-Mobile-Framework
+# Mobile Automation Framework
 
 **Instructions**:
 - Follow this tuturial Step by Step to setup Android Studio & Appium (https://www.swtestacademy.com/appium-tutorial/)
